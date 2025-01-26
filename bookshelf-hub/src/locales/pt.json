@@ -1,0 +1,18 @@
+{
+    "common":{
+        "bookshelfHub": "Bookshelf Hub",
+        "email": "E-mail",
+        "password": "Senha",
+        "forgotPassword": "Esqueceu a senha?",
+        "login": "Entrar",
+        "createAccount": "Ainda não tem uma conta? Cadastre-se",
+        "welcome": "Bem-vindo!",
+        "createYourAccount": "Crie sua conta!",
+        "confirmPassword": "Confirme sua senha",
+        "name": "Nome",
+        "doLogin": "Já tem uma conta? Faça login",
+        "register": "Registrar",
+        "user": "Usuário"
+
+    }
+}
