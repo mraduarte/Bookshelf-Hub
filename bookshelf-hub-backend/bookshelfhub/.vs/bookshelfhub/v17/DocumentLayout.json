@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\migrations\\20250127220624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\migrations\\20250127220624_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|c:\\users\\mcdua\\documents\\projetos\\bookshelf-hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BF2232-0981-4D64-B7A6-45A62A7587F9}|bookshelfhub\\bookshelfhub.csproj|solutionrelative:bookshelfhub\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "bookshelfhub\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:11:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250127220624_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Migrations\\20250127220624_InitialCreate.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Migrations\\20250127220624_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Migrations\\20250127220624_InitialCreate.cs",
+              "RelativeToolTip": "bookshelfhub\\Migrations\\20250127220624_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:07:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "bookshelfhub\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:57:52.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "bookshelfhub\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:51:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Models\\LoginModel.cs",
+              "RelativeToolTip": "bookshelfhub\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:51:17.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Program.cs",
+              "RelativeDocumentMoniker": "bookshelfhub\\Program.cs",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\Program.cs",
+              "RelativeToolTip": "bookshelfhub\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:50:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\appsettings.json",
+              "RelativeDocumentMoniker": "bookshelfhub\\appsettings.json",
+              "ToolTip": "C:\\Users\\mcdua\\Documents\\Projetos\\Bookshelf-Hub\\bookshelf-hub-backend\\bookshelfhub\\bookshelfhub\\appsettings.json",
+              "RelativeToolTip": "bookshelfhub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T21:46:50.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

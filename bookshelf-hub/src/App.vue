@@ -1,8 +1,8 @@
 <template>
   <nav>
     <header>
-        <div class="header">
-          <div>{{ $t('common.bookshelfHub') }}</div>
+      <div class="header">
+        <div>{{ $t('common.bookshelfHub') }}</div>
         <div>
           <ButtonComponent type="submit" value="submit" :text="$t('common.login')"></ButtonComponent>
         </div>
@@ -27,7 +27,7 @@
 <style lang="scss">
 #app {
   font-family: 'Noto serif';
-  color: $gray;
+  color: $gray-800;
 }
 
 .header{
@@ -38,5 +38,13 @@
   font-size: larger;
   font-weight: 500;
   border-bottom: 1px solid $gray-100;
+  background-color: $yellow-100;
+  height: 90px;
+
+  > div:first-child {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 2rem;
+  }
 }
 </style>

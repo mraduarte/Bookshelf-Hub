@@ -19,5 +19,9 @@
 <style lang="scss">
 .input-primary{
     background-color: $gray-100;
+
+    &:active{
+        border: none;
+    }
 }
 </style>

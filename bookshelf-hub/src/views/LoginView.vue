@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <div class="col-2 mx-auto mt-5">
+    <div class="col-3 custom-margin mt-5 mb-5">
       <h2>{{ $t('common.welcome') }}</h2>
     </div>
 

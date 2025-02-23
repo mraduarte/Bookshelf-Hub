@@ -21,9 +21,15 @@ import { defineComponent } from 'vue';
 <style lang="scss">
 
 .btn-primary{
-    background-color: $yellow;
-    border-color: $yellow;
+    background-color: $pink-200;
+    border-color: $pink-200;
     color: $gray;
     width: 100%;
+
+    &:hover{
+        background-color: $yellow-400;
+        border-color: $yellow-400;
+        color: $gray;
+    }
 }
 </style>

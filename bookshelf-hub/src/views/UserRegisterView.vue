@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="col-2 mx-auto mt-5">
+        <div class="col-2 custom-margin mt-4 mb-3">
             <h2>{{ $t('common.createYourAccount') }}</h2>
         </div>
 
